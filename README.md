@@ -47,3 +47,8 @@ a)	Compare gene order and orientation between R7 and HP126 using ACT
 **Project workflow diagram**
 ![Diagram-2025-04-01-190423](https://github.com/user-attachments/assets/afd97b51-54b1-4417-9fa5-e36518729529)
 
+Time schedule for work plan 
+
+
+
+
